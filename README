@@ -1,0 +1,5 @@
+gio (golang io)
+---------------
+
+gio is a library for a set of utilities for executing shell commands.
+
